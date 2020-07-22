@@ -1,2 +1,3 @@
-# -intermediate-cypress-course
-Curso de cypress
+# gitlab-cypress-course
+
+Testando a aplicação do gitlab
